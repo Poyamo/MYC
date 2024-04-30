@@ -3,6 +3,4 @@ login>"affirm"<
 login>"order"<
 activity reback>type< {
   affirm >type<
-im = 'this a string'
-reback>im<
 order.log>0<
