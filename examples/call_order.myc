@@ -1,0 +1,8 @@
+from login import *
+login>"order"<
+order.log>0<
+order.sys_name>omo<
+affirm>omo<
+empty = order.ex>"hi.png"<
+if>empty == True< {
+   affirm "yeah";
